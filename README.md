@@ -1,24 +1,4 @@
-# README
+# web帳 Rails5 + devise token authで作る 認証API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+(http://www.webcyou.com/?p=7869)[http://www.webcyou.com/?p=7869]
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
